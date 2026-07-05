@@ -1,0 +1,106 @@
+[
+  {
+    "id": "casablanca",
+    "name": "Casablanca Airport & Ville",
+    "city": "Casablanca",
+    "address": "Aéroport International Mohammed V, Terminal 1, Casablanca",
+    "phone": "+212 522 01 02 03",
+    "email": "casa@moroccodrive.com",
+    "hours": "24h/24 & 7j/7",
+    "coordinates": {
+      "lat": 33.3675,
+      "lng": -7.5898
+    }
+  },
+  {
+    "id": "rabat",
+    "name": "Rabat Agdal & Aéroport",
+    "city": "Rabat",
+    "address": "Avenue de France, Agdal, Rabat / Aéroport de Rabat-Salé",
+    "phone": "+212 537 04 05 06",
+    "email": "rabat@moroccodrive.com",
+    "hours": "08:00 - 22:00",
+    "coordinates": {
+      "lat": 34.0076,
+      "lng": -6.8498
+    }
+  },
+  {
+    "id": "marrakech",
+    "name": "Marrakech Guéliz & Aéroport",
+    "city": "Marrakech",
+    "address": "Aéroport Marrakech-Ménara / Boulevard Mohamed V, Guéliz, Marrakech",
+    "phone": "+212 524 07 08 09",
+    "email": "kech@moroccodrive.com",
+    "hours": "07:00 - 23:00",
+    "coordinates": {
+      "lat": 31.6295,
+      "lng": -7.9811
+    }
+  },
+  {
+    "id": "fes",
+    "name": "Fès Saïss & Ville",
+    "city": "Fès",
+    "address": "Aéroport de Fès-Saïss, N8, Fès",
+    "phone": "+212 535 10 11 12",
+    "email": "fes@moroccodrive.com",
+    "hours": "08:00 - 20:00",
+    "coordinates": {
+      "lat": 33.9298,
+      "lng": -4.9749
+    }
+  },
+  {
+    "id": "tanger",
+    "name": "Tanger Ville & Port / Aéroport",
+    "city": "Tanger",
+    "address": "Aéroport de Tanger-Ibn Battouta / Place de la Gare, Tanger",
+    "phone": "+212 539 13 14 15",
+    "email": "tanger@moroccodrive.com",
+    "hours": "07:00 - 22:00",
+    "coordinates": {
+      "lat": 35.7595,
+      "lng": -5.8340
+    }
+  },
+  {
+    "id": "agadir",
+    "name": "Agadir Al Massira & Baie",
+    "city": "Agadir",
+    "address": "Aéroport d'Agadir-Al Massira / Boulevard du 20 Août, Agadir",
+    "phone": "+212 528 16 17 18",
+    "email": "agadir@moroccodrive.com",
+    "hours": "08:00 - 22:00",
+    "coordinates": {
+      "lat": 30.3235,
+      "lng": -9.4124
+    }
+  },
+  {
+    "id": "oujda",
+    "name": "Oujda Angads & Ville",
+    "city": "Oujda",
+    "address": "Aéroport Oujda-Angads / Boulevard Mohammed V, Oujda",
+    "phone": "+212 536 19 20 21",
+    "email": "oujda@moroccodrive.com",
+    "hours": "08:00 - 20:00",
+    "coordinates": {
+      "lat": 34.6853,
+      "lng": -1.9078
+    }
+  },
+  {
+    "id": "nador",
+    "name": "Nador Al Aroui & Port",
+    "city": "Nador",
+    "address": "Aéroport de Nador-Al Aroui / Port de Beni Ansar, Nador",
+    "phone": "+212 536 22 23 24",
+    "email": "nador@moroccodrive.com",
+    "hours": "08:00 - 20:00",
+    "coordinates": {
+      "lat": 35.1681,
+      "lng": -2.9335
+    }
+  }
+]

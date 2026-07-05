@@ -1,0 +1,32 @@
+[
+  {
+    "id": "economique",
+    "name": "Économique",
+    "description": "Idéal pour la ville, économique et facile à garer.",
+    "icon": "Car"
+  },
+  {
+    "id": "berline",
+    "name": "Berline",
+    "description": "Confortable pour les longs trajets et voyages d'affaires.",
+    "icon": "Briefcase"
+  },
+  {
+    "id": "suv",
+    "name": "SUV",
+    "description": "Spacieux et polyvalent, idéal pour les familles.",
+    "icon": "Compass"
+  },
+  {
+    "id": "luxe",
+    "name": "Luxe & Sport",
+    "description": "Véhicules haut de gamme pour une expérience de conduite exceptionnelle.",
+    "icon": "Gem"
+  },
+  {
+    "id": "4x4",
+    "name": "4x4 Tout-Terrain",
+    "description": "Puissance et robustesse pour explorer les routes du Maroc.",
+    "icon": "Mountain"
+  }
+]

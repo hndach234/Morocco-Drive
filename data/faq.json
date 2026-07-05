@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "Quels sont les documents requis pour louer une voiture ?",
+    "answer": "Pour louer un véhicule chez Morocco Drive, vous devez présenter un permis de conduire valide (physique, en cours de validité depuis au moins 2 ans), une pièce d'identité en cours de validité (carte nationale ou passeport) et une carte bancaire au nom du conducteur principal pour le dépôt de garantie."
+  },
+  {
+    "id": 2,
+    "question": "Quel est l'âge minimum requis pour louer une voiture au Maroc ?",
+    "answer": "L'âge minimum est de 21 ans pour les véhicules des catégories Économique et Berline, et de 25 ans pour les catégories SUV, Luxe et 4x4. Une taxe 'jeune conducteur' peut s'appliquer pour les conducteurs de moins de 23 ans."
+  },
+  {
+    "id": 3,
+    "question": "Puis-je restituer le véhicule dans une agence différente de celle de départ ?",
+    "answer": "Oui, Morocco Drive propose l'option 'aller simple' qui vous permet de prendre la voiture dans une ville (par exemple Casablanca) et de la restituer dans une autre (par exemple Marrakech). Des frais d'abandon peuvent s'appliquer selon la distance."
+  },
+  {
+    "id": 4,
+    "question": "Comment fonctionne le dépôt de garantie (caution) ?",
+    "answer": "Lors de la prise en charge, une pré-autorisation (blocage temporaire des fonds) est effectuée sur votre carte bancaire. Ce montant n'est pas débité et est libéré lors de la restitution du véhicule en parfait état. Le montant dépend de la catégorie du véhicule."
+  },
+  {
+    "id": 5,
+    "question": "Les assurances sont-elles incluses dans le tarif de location ?",
+    "answer": "Nos tarifs incluent l'assurance responsabilité civile obligatoire (tiers). Nous proposons également des options complémentaires (rachat partiel ou total de franchise) pour couvrir les dommages matériels et le vol afin de voyager en toute sérénité."
+  },
+  {
+    "id": 6,
+    "question": "Que dois-je faire en cas de panne ou d'accident ?",
+    "answer": "En cas de problème, contactez immédiatement notre service d'assistance 24/7 disponible sur le numéro fourni lors de la prise en charge ou via notre bouton WhatsApp. En cas d'accident, un constat à l'amiable doit être rédigé dans les 24 heures."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Youssef El Amrani",
+    "role": "Client Particulier",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=150",
+    "rating": 5,
+    "comment": "Service impeccable ! J'ai loué la Peugeot 208 à l'aéroport de Casablanca. Voiture très propre, équipe accueillante et processus rapide. Je recommande vivement Morocco Drive.",
+    "date": "2026-06-15"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Miller",
+    "role": "Touriste",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=150",
+    "rating": 5,
+    "comment": "We rented a Range Rover Evoque in Marrakech for our trip to the Atlas Mountains. The car was in perfect condition and the customer service was highly professional. Amazing experience!",
+    "date": "2026-06-20"
+  },
+  {
+    "id": 3,
+    "name": "Karim Bennani",
+    "role": "Professionnel (B2B)",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=150",
+    "rating": 4,
+    "comment": "Très satisfait des services de Morocco Drive pour mes déplacements professionnels. La Mercedes Classe C était très bien entretenue. Le système de réservation en ligne est simple et efficace.",
+    "date": "2026-06-28"
+  },
+  {
+    "id": 4,
+    "name": "Amina Mansouri",
+    "role": "Client Régulier",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=150",
+    "rating": 5,
+    "comment": "C'est la troisième fois que je loue chez Morocco Drive à Tanger. Le personnel est toujours aussi aimable et serviable. Les tarifs sont très compétitifs par rapport à la qualité offerte.",
+    "date": "2026-07-02"
+  },
+  {
+    "id": 5,
+    "name": "David Dubois",
+    "role": "Voyageur",
+    "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=150",
+    "rating": 5,
+    "comment": "Une agence de location de confiance au Maroc. Location d'un Dacia Duster à Agadir pour explorer le sud. Voiture robuste et démarches de restitution simplifiées. Merci !",
+    "date": "2026-07-04"
+  }
+]
