@@ -1,6 +1,8 @@
 import { MetadataRoute } from "next";
 import blogData from "../../data/blog.json";
 
+export const dynamic = "force-static";
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://www.moroccodrive.com";
 
